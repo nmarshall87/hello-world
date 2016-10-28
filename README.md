@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+Getting back info programming after studying on my own about 13 years ago. Also, I like beer.
